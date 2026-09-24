@@ -1,12 +1,12 @@
 # 👋 Olá, eu sou o Jota!
 
-🎓 Estudante de **Engenharia de Software**
-💻 Interessado em **Desenvolvimento Web, Backend e Banco de Dados**
-🚀 Sempre aprendendo e desenvolvendo novos projetos
+ Estudante de **Engenharia de Software**
+ Interessado em **Desenvolvimento Web, Backend e Banco de Dados**
+ Sempre aprendendo e desenvolvendo novos projetos
 
 ---
 
-## 🧑‍💻 Sobre mim
+##  Sobre mim
 
 Sou estudante de Engenharia de Software e utilizo meus projetos acadêmicos e pessoais para colocar em prática o que venho aprendendo.
 
@@ -14,19 +14,19 @@ Atualmente estou desenvolvendo meus conhecimentos em programação, estruturas d
 
 ---
 
-## 🚀 Linguagens e Tecnologias
+##  Linguagens e Tecnologias
 
-### 🎓 Faculdade
+###  Faculdade
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge\&logo=c\&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge\&logo=postgresql\&logoColor=white)
 
-**C** — Programação e Estruturas de Dados
+**C** — Algoritmos e Programação, Laboratório de Programação e Estruturas de Dados
 **Java** — Programação Orientada a Objetos (POO)
-**PostgreSQL / SQL** — Banco de Dados
+**PostgreSQL / SQL** — Banco de Dados e SGBD
 
-### 📚 Estudos por conta própria
+###  Estudos por conta própria
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
@@ -34,7 +34,7 @@ Atualmente estou desenvolvendo meus conhecimentos em programação, estruturas d
 
 Estudando e praticando **JavaScript, HTML e CSS** através de projetos e conteúdos online.
 
-### 🛠️ Ferramentas
+###  Ferramentas
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
@@ -42,9 +42,9 @@ Estudando e praticando **JavaScript, HTML e CSS** através de projetos e conteú
 
 ---
 
-## 📌 Projetos
+##  Projetos
 
-### ✂️ ALT+F4
+###  ALT+F4
 
 Sistema para gerenciamento de barbearias, com foco em **agendamento de serviços, controle de horários e pagamentos**.
 
@@ -52,7 +52,7 @@ Sistema para gerenciamento de barbearias, com foco em **agendamento de serviços
 
 ---
 
-### 🔗 WorkLink
+###  WorkLink
 
 Projeto voltado para conectar **profissionais e oportunidades de trabalho**, facilitando a busca por serviços e profissionais.
 
@@ -60,7 +60,7 @@ Projeto voltado para conectar **profissionais e oportunidades de trabalho**, fac
 
 ---
 
-### 📚 Sistema de Biblioteca
+###  Sistema de Biblioteca
 
 Sistema desenvolvido em **C** para praticar conceitos de Estruturas de Dados.
 
@@ -74,7 +74,7 @@ Sistema desenvolvido em **C** para praticar conceitos de Estruturas de Dados.
 
 ---
 
-### 🗄️ Projetos SQL
+###  Projetos SQL
 
 Projetos acadêmicos utilizando **PostgreSQL**, trabalhando com:
 
@@ -88,7 +88,7 @@ Projetos acadêmicos utilizando **PostgreSQL**, trabalhando com:
 
 ---
 
-## 📈 Atualmente estudando
+##  Atualmente estudando
 
 ```text
 C                 █████████░░
@@ -100,12 +100,12 @@ HTML / CSS        ███████░░░░
 
 ---
 
-## 🎯 Objetivo
+##  Objetivo
 
 Continuar evoluindo como desenvolvedor, transformando conhecimento teórico em projetos práticos e construindo uma base sólida para atuar profissionalmente na área de tecnologia.
 
 ---
 
-## 📫 Contato
+##  Contato
 
-💻 GitHub: [@jot4kkj](https://github.com/jot4kkj)
+ GitHub: [@jot4kkj](https://github.com/jot4kkj)
