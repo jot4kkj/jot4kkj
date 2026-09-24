@@ -1,44 +1,44 @@
 # 👋 Olá, eu sou o Jota!
 
-💻 Estudante de Engenharia de Software
-🚀 Desenvolvendo projetos e aprendendo novas tecnologias
-📚 Construindo minha experiência através de projetos acadêmicos e pessoais
+🎓 Estudante de **Engenharia de Software**
+💻 Interessado em **Desenvolvimento Web, Backend e Banco de Dados**
+🚀 Sempre aprendendo e desenvolvendo novos projetos
 
 ---
 
 ## 🧑‍💻 Sobre mim
 
-Sou estudante de Engenharia de Software e estou construindo minha experiência através da faculdade, projetos pessoais e estudos por conta própria.
+Sou estudante de Engenharia de Software e utilizo meus projetos acadêmicos e pessoais para colocar em prática o que venho aprendendo.
 
-Tenho interesse principalmente em:
-
-* 💻 Desenvolvimento de Software
-* 🌐 Desenvolvimento Web
-* ⚙️ Backend
-* 🗄️ Banco de Dados
-* 🎨 UI/UX
+Atualmente estou desenvolvendo meus conhecimentos em programação, estruturas de dados, programação orientada a objetos, banco de dados e desenvolvimento web.
 
 ---
 
 ## 🚀 Linguagens e Tecnologias
 
-### 🎓 Estudos na faculdade
+### 🎓 Faculdade
 
-* **C** — programação e Estruturas de Dados
-* **Java** — Programação Orientada a Objetos (POO)
-* **PostgreSQL / SQL** — Banco de Dados
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge\&logo=c\&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge\&logo=postgresql\&logoColor=white)
+
+**C** — Programação e Estruturas de Dados
+**Java** — Programação Orientada a Objetos (POO)
+**PostgreSQL / SQL** — Banco de Dados
 
 ### 📚 Estudos por conta própria
 
-* **JavaScript**
-* **HTML**
-* **CSS**
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
+
+Estudando e praticando **JavaScript, HTML e CSS** através de projetos e conteúdos online.
 
 ### 🛠️ Ferramentas
 
-* Git
-* GitHub
-* VS Code
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge\&logo=visual-studio-code\&logoColor=white)
 
 ---
 
@@ -46,30 +46,66 @@ Tenho interesse principalmente em:
 
 ### ✂️ ALT+F4
 
-Sistema para gerenciamento de barbearias, permitindo agendamento de serviços, controle de horários e pagamentos.
+Sistema para gerenciamento de barbearias, com foco em **agendamento de serviços, controle de horários e pagamentos**.
 
-### 🔗 WorkLink
-
-Projeto voltado para conectar profissionais e oportunidades de trabalho, facilitando a busca por serviços e profissionais.
-
-### 📚 Sistema de Biblioteca
-
-Projeto desenvolvido em C para praticar estruturas de dados, incluindo vetores, listas encadeadas, busca, inserção e remoção.
-
-### 🗄️ Projetos SQL
-
-Projetos envolvendo PostgreSQL, modelagem de banco de dados, DDL, DML, TCL e transações.
+**Tecnologias:** Desenvolvimento Web, Backend e Banco de Dados.
 
 ---
 
-## 📊 GitHub
+### 🔗 WorkLink
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jot4kkj\&show_icons=true\&theme=tokyonight)
+Projeto voltado para conectar **profissionais e oportunidades de trabalho**, facilitando a busca por serviços e profissionais.
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jot4kkj\&layout=compact\&theme=tokyonight)
+**Tecnologias:** Desenvolvimento Web e Banco de Dados.
+
+---
+
+### 📚 Sistema de Biblioteca
+
+Sistema desenvolvido em **C** para praticar conceitos de Estruturas de Dados.
+
+**Principais conceitos:**
+
+* Vetores
+* Listas encadeadas
+* Inserção e remoção
+* Busca
+* Alocação de memória
+
+---
+
+### 🗄️ Projetos SQL
+
+Projetos acadêmicos utilizando **PostgreSQL**, trabalhando com:
+
+* Modelagem de Banco de Dados
+* DDL
+* DML
+* TCL
+* Transações
+* Constraints
+* Relacionamentos
+
+---
+
+## 📈 Atualmente estudando
+
+```text
+C                 █████████░░
+Java / POO        ████████░░░
+PostgreSQL / SQL  ████████░░░
+JavaScript        ██████░░░░░
+HTML / CSS        ███████░░░░
+```
+
+---
+
+## 🎯 Objetivo
+
+Continuar evoluindo como desenvolvedor, transformando conhecimento teórico em projetos práticos e construindo uma base sólida para atuar profissionalmente na área de tecnologia.
 
 ---
 
 ## 📫 Contato
 
-🔗 GitHub: https://github.com/jot4kkj
+💻 GitHub: [@jot4kkj](https://github.com/jot4kkj)
